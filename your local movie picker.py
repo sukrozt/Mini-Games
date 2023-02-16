@@ -1,3 +1,6 @@
+#I always struggled which movie which I'll watch at night.
+#Here's the simpliest solution. Let the automation decide for you.
+
 import random as rd
 acilis_mesaji= "selam. aşağıya filmleri yazıyosun ben de seçiyorum."
 print(acilis_mesaji)
