@@ -10,5 +10,5 @@ for a in range(num_of_mov):
     film_ismi = input("filmin ismi: ")
     list_of_movies.append(film_ismi)
 the_one = rd.choice(list_of_movies)
-print("bugünün filmi:", the_one)
-print("mısırın bol olsun")
+print(f"bugünün filmi: {the_one}\nmısırın bol olsun")
+
